@@ -1,0 +1,4 @@
+.env.bak
+.env
+taketwo/
+__pycache__/

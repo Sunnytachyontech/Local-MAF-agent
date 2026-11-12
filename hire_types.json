@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Full-time",
+    "description": "Permanent employee on the company payroll.",
+    "probation_months": 6,
+    "notice_period_days": 60,
+    "benefits_eligible": true
+  },
+  {
+    "name": "Contract",
+    "description": "Fixed-term engagement with a defined end date.",
+    "probation_months": 0,
+    "notice_period_days": 15,
+    "benefits_eligible": false
+  },
+  {
+    "name": "Intern",
+    "description": "Short-term learning role, usually 3 to 6 months.",
+    "probation_months": 0,
+    "notice_period_days": 7,
+    "benefits_eligible": false
+  },
+  {
+    "name": "Contract-to-Hire",
+    "description": "Starts as a contract and can convert to full-time after review.",
+    "probation_months": 3,
+    "notice_period_days": 30,
+    "benefits_eligible": false
+  }
+]
